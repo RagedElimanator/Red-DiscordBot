@@ -72,10 +72,17 @@
     },
     {
       "id": "n10",
-      "label": "thanos",
+      "label": "Thanos",
       "x": 12,
       "y": 2,
       "size": 10
+    },
+    {
+      "id": "n11",
+      "label": "Hela",
+      "x": -8,
+      "y": -2,
+      "size": 6
     }
   ],
   "edges": [
@@ -124,14 +131,17 @@
       "source": "n3",
       "target": "n10"
     },
+    {
     "id": "e9",
       "source": "n5",
       "target": "n10"
     },
+    {
     "id": "e10",
       "source": "n7",
       "target": "n10"
     },
+    {
     "id": "e11",
       "source": "n9",
       "target": "n10"
@@ -140,6 +150,16 @@
     "id": "e12",
       "source": "n6",
       "target": "n10"
+    },
+    {
+    "id": "e13",
+      "source": "n0",
+      "target": "n11"
+    },
+    {
+    "id": "e14",
+      "source": "n1",
+      "target": "n11"
     }
   ]
 }
