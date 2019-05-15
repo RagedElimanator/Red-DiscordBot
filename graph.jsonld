@@ -72,7 +72,7 @@
     },
     {
       "id": "n10",
-      "label": "Thanos",
+      "label": "thanos",
       "x": 12,
       "y": 2,
       "size": 10
@@ -124,8 +124,20 @@
       "source": "n3",
       "target": "n10"
     },
-    {
     "id": "e9",
+      "source": "n5",
+      "target": "n10"
+    },
+    "id": "e10",
+      "source": "n7",
+      "target": "n10"
+    },
+    "id": "e11",
+      "source": "n9",
+      "target": "n10"
+    },
+    {
+    "id": "e12",
       "source": "n6",
       "target": "n10"
     }
