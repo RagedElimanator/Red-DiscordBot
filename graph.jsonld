@@ -62,7 +62,7 @@
       "x": 8,
       "y": 8,
       "size": 4
-    }
+    },
      {
       "id": "n9",
       "label": "Loki",
@@ -74,19 +74,16 @@
   "edges": [
     {
       "id": "e0",
-      "label": "1",
       "source": "n0",
       "target": "n9",
     },
     {
       "id": "e1",
-      "label": "2",
       "source": "n1",
       "target": "n9"
     },
     {
       "id": "e2",
-      "label": "3",
       "source": "n2",
       "target": "n0"
     }
