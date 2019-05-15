@@ -85,8 +85,17 @@
     {
       "id": "e2",
       "source": "n2",
-      "target": "n0"
+      "target": "n9"
+    },
+    {
+    "id": "e3",
+      "source": "n3",
+      "target": "n9"
+    },
+    {
+    "id": "e3",
+      "source": "n6",
+      "target": "n9"
     }
   ]
 }
-
