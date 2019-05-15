@@ -74,16 +74,19 @@
   "edges": [
     {
       "id": "e0",
+      "label": "Thor",
       "source": "n0",
       "target": "n9"
     },
     {
       "id": "e1",
+      "label": "Thor",
       "source": "n1",
       "target": "n9"
     },
     {
       "id": "e2",
+      "label": "Thor",
       "source": "n2",
       "target": "n0"
     }
