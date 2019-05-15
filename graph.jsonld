@@ -76,19 +76,16 @@
       "id": "e0",
       "source": "n0",
       "target": "n9"
-      "label": "Th"
     },
     {
       "id": "e1",
       "source": "n1",
-      "target": "n9",
-      "label": "Tho"
+      "target": "n9"
     },
     {
       "id": "e2",
       "source": "n2",
-      "target": "n0",
-      "label": "Thor",
+      "target": "n0"
     }
   ]
 }
